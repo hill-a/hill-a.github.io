@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Ashley Hill | hill-a</title>
+    <link>https://hill-a.me/project/</link>
+      <atom:link href="https://hill-a.me/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hill-a.me/img/logo.jpeg</url>
+      <title>Projects</title>
+      <link>https://hill-a.me/project/</link>
+    </image>
+    
+    <item>
+      <title>Stable Baselines</title>
+      <link>https://hill-a.me/project/stable-baselines/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/project/stable-baselines/</guid>
+      <description>&lt;h1 id=&#34;stable-baselines&#34;&gt;Stable Baselines&lt;/h1&gt;
+&lt;p&gt;Github repository: &lt;a href=&#34;https://github.com/hill-a/stable-baselines&#34;&gt;https://github.com/hill-a/stable-baselines&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Stable Baselines is a set of improved implementations of reinforcement learning algorithms based on OpenAI &lt;a href=&#34;https://github.com/openai/baselines/&#34;&gt;Baselines&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can read a detailed presentation of Stable Baselines in the &lt;a href=&#34;https://medium.com/@araffin/stable-baselines-a-fork-of-openai-baselines-reinforcement-learning-made-easy-df87c4b2fc82&#34;&gt;Medium article&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;These algorithms will make it easier for the research community and industry to replicate, refine, and identify new ideas, and will create good baselines to build projects on top of. We expect these tools will be used as a base around which new ideas can be added, and as a tool for comparing a new approach against existing ones. We also hope that the simplicity of these tools will allow beginners to experiment with a more advanced toolset, without being buried in implementation details.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note: despite its simplicity of use, Stable Baselines (SB) assumes you have some knowledge about Reinforcement Learning (RL).&lt;/strong&gt; You should not utilize this library without some practice. To that extent, we provide good resources in the &lt;a href=&#34;https://stable-baselines.readthedocs.io/en/master/guide/rl.html&#34;&gt;documentation&lt;/a&gt; to get started with RL.&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;Stable Baselines was created in the &lt;a href=&#34;http://u2is.ensta-paristech.fr/index.php?lang=en&#34;&gt;robotics lab U2IS&lt;/a&gt; (&lt;a href=&#34;https://flowers.inria.fr/&#34;&gt;INRIA Flowers&lt;/a&gt; team) at &lt;a href=&#34;http://www.ensta-paristech.fr/en&#34;&gt;ENSTA ParisTech&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Logo credits: &lt;a href=&#34;https://www.instagram.com/lucillehue/&#34;&gt;L.M. Tenkes&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>S-RL Toolbox</title>
+      <link>https://hill-a.me/project/srl-toolbox/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/project/srl-toolbox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

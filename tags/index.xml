@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Ashley Hill | hill-a</title>
+    <link>https://hill-a.me/tags/</link>
+      <atom:link href="https://hill-a.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hill-a.me/img/logo.jpeg</url>
+      <title>Tags</title>
+      <link>https://hill-a.me/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

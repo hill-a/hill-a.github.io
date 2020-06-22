@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Ashley Hill | hill-a</title>
+    <link>https://hill-a.me/publication-type/0/</link>
+      <atom:link href="https://hill-a.me/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hill-a.me/img/logo.jpeg</url>
+      <title>0</title>
+      <link>https://hill-a.me/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Decoupling feature extraction from policy learning: assessing benefits of state representation learning in goal based robotics</title>
+      <link>https://hill-a.me/publication/feature-extraction/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S-RL Toolbox: Environments, Datasets and Evaluation Metrics for State Representation Learning</title>
+      <link>https://hill-a.me/publication/srl-toolbox/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/srl-toolbox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on </title>
-    <link>https://hill-a.github.io/talk/</link>
-    <description>Recent content in Talks on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="https://hill-a.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <title>Recent &amp; Upcoming Talks | Ashley Hill | hill-a</title>
+    <link>https://hill-a.me/talk/</link>
+      <atom:link href="https://hill-a.me/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hill-a.me/img/logo.jpeg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://hill-a.me/talk/</link>
+    </image>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://hill-a.github.io/talk/_index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hill-a.github.io/talk/_index/</guid>
+      <title>CES-IA Reinforcement Learning Class</title>
+      <link>https://hill-a.me/talk/ces-ia/</link>
+      <pubDate>Sat, 04 Apr 2020 09:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/talk/ces-ia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL Tutorial on Stable Baselines</title>
+      <link>https://hill-a.me/talk/rl-tuto-jnrr2019/</link>
+      <pubDate>Fri, 18 Oct 2019 09:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/talk/rl-tuto-jnrr2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICINCO presentation</title>
+      <link>https://hill-a.me/talk/icinco-2019/</link>
+      <pubDate>Mon, 29 Jul 2019 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/talk/icinco-2019/</guid>
       <description></description>
     </item>
     

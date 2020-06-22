@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on </title>
-    <link>https://hill-a.github.io/publication/</link>
-    <description>Recent content in Publications on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="https://hill-a.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Ashley Hill | hill-a</title>
+    <link>https://hill-a.me/publication/</link>
+      <atom:link href="https://hill-a.me/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2019 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hill-a.me/img/logo.jpeg</url>
+      <title>Publications</title>
+      <link>https://hill-a.me/publication/</link>
+    </image>
     
     <item>
-      <title>Publications</title>
-      <link>https://hill-a.github.io/publication/_index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hill-a.github.io/publication/_index/</guid>
+      <title>Neuroevolution with CMA-ES for real-time gain tuning of a car-like robot controller</title>
+      <link>https://hill-a.me/publication/icinco-2019/</link>
+      <pubDate>Mon, 29 Jul 2019 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/icinco-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupling feature extraction from policy learning: assessing benefits of state representation learning in goal based robotics</title>
+      <link>https://hill-a.me/publication/feature-extraction/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S-RL Toolbox: Environments, Datasets and Evaluation Metrics for State Representation Learning</title>
+      <link>https://hill-a.me/publication/srl-toolbox/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/srl-toolbox/</guid>
       <description></description>
     </item>
     

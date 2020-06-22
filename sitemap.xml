@@ -1,89 +1,188 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hill-a.github.io/</loc>
-    <priority>0</priority>
+    <loc>https://hill-a.me/author/</loc>
+    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/authors/admin/_index/</loc>
+    <loc>https://hill-a.me/</loc>
+    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/</loc>
+    <loc>https://hill-a.me/authors/</loc>
+    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/post/_index/</loc>
+    <loc>https://hill-a.me/talk/ces-ia/</loc>
+    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/publication/_index/</loc>
+    <loc>https://hill-a.me/talk/</loc>
+    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/talk/_index/</loc>
+    <loc>https://hill-a.me/tag/reinforcement-learning/</loc>
+    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/slider/</loc>
+    <loc>https://hill-a.me/tag/robotics/</loc>
+    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/hero/</loc>
+    <loc>https://hill-a.me/tags/</loc>
+    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/demo/</loc>
+    <loc>https://hill-a.me/author/antonin-raffin/</loc>
+    <lastmod>2019-10-18T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/about/</loc>
+    <loc>https://hill-a.me/author/edward-beeching/</loc>
+    <lastmod>2019-10-18T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/skills/</loc>
+    <loc>https://hill-a.me/talk/rl-tuto-jnrr2019/</loc>
+    <lastmod>2019-10-18T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/experience/</loc>
+    <loc>https://hill-a.me/publication-type/1/</loc>
+    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/accomplishments/</loc>
+    <loc>https://hill-a.me/author/eric-lucet/</loc>
+    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/posts/</loc>
+    <loc>https://hill-a.me/tag/evolutionary-strategy/</loc>
+    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/projects/</loc>
+    <loc>https://hill-a.me/talk/icinco-2019/</loc>
+    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/people/</loc>
+    <loc>https://hill-a.me/tag/mobile-robotics/</loc>
+    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/talks/</loc>
+    <loc>https://hill-a.me/tag/mobile-robots/</loc>
+    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/featured/</loc>
+    <loc>https://hill-a.me/publication/icinco-2019/</loc>
+    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/publications/</loc>
+    <loc>https://hill-a.me/publication_types/</loc>
+    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/tags/</loc>
+    <loc>https://hill-a.me/publication/</loc>
+    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hill-a.github.io/home/contact/</loc>
+    <loc>https://hill-a.me/author/roland-lenain/</loc>
+    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/publication-type/0/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/author/david-filliat/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/publication/feature-extraction/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/author/natalia-diaz-rodriguez/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/author/rene-traore/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/tag/state-representation-learning/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/author/timothee-lesort/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/publication/srl-toolbox/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/tag/deep-learning/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/tag/machine-learning/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/project/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/tag/python/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/project/stable-baselines/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/project/srl-toolbox/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hill-a.me/post/</loc>
   </url>
   
 </urlset>
