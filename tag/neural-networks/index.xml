@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural networks | Ashley Hill | hill-a</title>
+    <link>https://hill-a.me/tag/neural-networks/</link>
+      <atom:link href="https://hill-a.me/tag/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neural networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hill-a.me/media/icon_hubbd6e63d4ed975c3d1d61fd0a96e588a_325430_512x512_fill_lanczos_center_3.png</url>
+      <title>Neural networks</title>
+      <link>https://hill-a.me/tag/neural-networks/</link>
+    </image>
+    
+    <item>
+      <title>Online Gain Tuning Using Neural Networks: A Comparative Study</title>
+      <link>https://hill-a.me/publication/agri2022/</link>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/agri2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Tuning of Control Parameters for Off-Road Mobile Robots: Novel Deterministic and Neural Network-Based Approaches</title>
+      <link>https://hill-a.me/publication/ram2022/</link>
+      <pubDate>Fri, 01 Jul 2022 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/ram2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online velocity fluctuation of off-road wheeled mobile robots: A reinforcement learning approach</title>
+      <link>https://hill-a.me/publication/icra2021/</link>
+      <pubDate>Sun, 30 May 2021 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/icra2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online gain setting method for path tracking using CMA-ES: Application to off-road mobile robot control</title>
+      <link>https://hill-a.me/publication/iros2020/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/iros2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

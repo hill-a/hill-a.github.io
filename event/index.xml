@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Ashley Hill | hill-a</title>
+    <link>https://hill-a.me/event/</link>
+      <atom:link href="https://hill-a.me/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hill-a.me/media/icon_hubbd6e63d4ed975c3d1d61fd0a96e588a_325430_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://hill-a.me/event/</link>
+    </image>
+    
+    <item>
+      <title>CES-IA Reinforcement Learning Class</title>
+      <link>https://hill-a.me/talk/ces-ia-reinforcement-learning-class/</link>
+      <pubDate>Sat, 04 Apr 2020 09:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/talk/ces-ia-reinforcement-learning-class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL Tutorial on Stable Baselines</title>
+      <link>https://hill-a.me/talk/rl-tutorial-on-stable-baselines/</link>
+      <pubDate>Fri, 18 Oct 2019 09:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/talk/rl-tutorial-on-stable-baselines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICINCO presentation</title>
+      <link>https://hill-a.me/talk/icinco-presentation/</link>
+      <pubDate>Mon, 29 Jul 2019 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/talk/icinco-presentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

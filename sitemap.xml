@@ -1,188 +1,255 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://hill-a.me/author/</loc>
-    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/</loc>
-    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/authors/</loc>
-    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/talk/ces-ia/</loc>
-    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/talk/</loc>
-    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/tag/reinforcement-learning/</loc>
-    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/tag/robotics/</loc>
-    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/tags/</loc>
-    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/author/antonin-raffin/</loc>
-    <lastmod>2019-10-18T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/author/edward-beeching/</loc>
-    <lastmod>2019-10-18T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/talk/rl-tuto-jnrr2019/</loc>
-    <lastmod>2019-10-18T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/publication-type/1/</loc>
-    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/author/eric-lucet/</loc>
-    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://hill-a.me/publication-type/2/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/tag/evolutionary-strategy/</loc>
-    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/talk/icinco-2019/</loc>
-    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/tag/mobile-robotics/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/neural-networks/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/publication/agri2022/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/publication_types/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/publication/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/reinforcement-learning/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/robotics/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tags/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/uncertainty/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/vehicle-dynamics/</loc>
+    <lastmod>2022-12-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/publication/ram2022/</loc>
+    <lastmod>2022-07-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/c-cpp/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/docker/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/project/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/unix/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/windows/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/project/yacht/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/publication/lnee2022/</loc>
+    <lastmod>2022-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/adaptive-control/</loc>
+    <lastmod>2022-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/control-theory/</loc>
+    <lastmod>2022-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/explainable-artificial-intelligence/</loc>
+    <lastmod>2022-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/gain-tuning/</loc>
+    <lastmod>2022-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/machine-learning/</loc>
+    <lastmod>2022-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/neural-network/</loc>
+    <lastmod>2022-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/publication-type/1/</loc>
+    <lastmod>2021-05-30T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/online-velocity-fluctuation/</loc>
+    <lastmod>2021-05-30T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/publication/icra2021/</loc>
+    <lastmod>2021-05-30T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/baselines/</loc>
+    <lastmod>2021-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/open-source/</loc>
+    <lastmod>2021-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/python/</loc>
+    <lastmod>2021-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/pytorch/</loc>
+    <lastmod>2021-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/software/</loc>
+    <lastmod>2021-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/publication/stable-baselines/</loc>
+    <lastmod>2021-01-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/publication/iros2020/</loc>
+    <lastmod>2020-10-24T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/publication/icinco-2020/</loc>
+    <lastmod>2020-07-07T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/electronic-design/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/embedded-programming/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/project/obd/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/raspberry-pi/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/soldering/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/talk/ces-ia-reinforcement-learning-class/</loc>
+    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/event/</loc>
+    <lastmod>2020-04-04T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/talk/rl-tutorial-on-stable-baselines/</loc>
+    <lastmod>2019-10-18T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/talk/icinco-presentation/</loc>
     <lastmod>2019-07-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/tag/mobile-robots/</loc>
     <lastmod>2019-07-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/publication/icinco-2019/</loc>
     <lastmod>2019-07-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/publication_types/</loc>
-    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/publication/</loc>
-    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/author/roland-lenain/</loc>
-    <lastmod>2019-07-29T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/publication-type/0/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/author/david-filliat/</loc>
-    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/publication/feature-extraction/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/author/natalia-diaz-rodriguez/</loc>
-    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/author/rene-traore/</loc>
-    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/tag/state-representation-learning/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/author/timothee-lesort/</loc>
-    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/publication/srl-toolbox/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/tag/deep-learning/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/tag/machine-learning/</loc>
-    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/project/</loc>
-    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hill-a.me/tag/python/</loc>
-    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/project/stable-baselines/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/project/srl-toolbox/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/project/portable_pi/</loc>
+    <lastmod>2016-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/tag/microcontroller/</loc>
+    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/project/seata/</loc>
+    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hill-a.me/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hill-a.me/categories/</loc>
+    <changefreq>weekly</changefreq>
   </url>
-  
-  <url>
-    <loc>https://hill-a.me/post/</loc>
-  </url>
-  
 </urlset>

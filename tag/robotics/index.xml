@@ -1,30 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robotics | Ashley Hill | hill-a</title>
+    <title>Robotics | Ashley Hill | hill-a</title>
     <link>https://hill-a.me/tag/robotics/</link>
       <atom:link href="https://hill-a.me/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Robotics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hill-a.me/img/logo.jpeg</url>
+      <url>https://hill-a.me/media/icon_hubbd6e63d4ed975c3d1d61fd0a96e588a_325430_512x512_fill_lanczos_center_3.png</url>
       <title>Robotics</title>
       <link>https://hill-a.me/tag/robotics/</link>
     </image>
     
     <item>
+      <title>Online Gain Tuning Using Neural Networks: A Comparative Study</title>
+      <link>https://hill-a.me/publication/agri2022/</link>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/agri2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Tuning of Control Parameters for Off-Road Mobile Robots: Novel Deterministic and Neural Network-Based Approaches</title>
+      <link>https://hill-a.me/publication/ram2022/</link>
+      <pubDate>Fri, 01 Jul 2022 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/ram2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Gradient Feature Importance Method for Neural Networks: An Application to Controller Gain Tuning for Mobile Robots</title>
+      <link>https://hill-a.me/publication/lnee2022/</link>
+      <pubDate>Sat, 01 Jan 2022 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/lnee2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online velocity fluctuation of off-road wheeled mobile robots: A reinforcement learning approach</title>
+      <link>https://hill-a.me/publication/icra2021/</link>
+      <pubDate>Sun, 30 May 2021 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/icra2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online gain setting method for path tracking using CMA-ES: Application to off-road mobile robot control</title>
+      <link>https://hill-a.me/publication/iros2020/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/iros2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new neural network feature importance method: Application to mobile robots controllers gain tuning</title>
+      <link>https://hill-a.me/publication/icinco-2020/</link>
+      <pubDate>Tue, 07 Jul 2020 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/icinco-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CES-IA Reinforcement Learning Class</title>
-      <link>https://hill-a.me/talk/ces-ia/</link>
+      <link>https://hill-a.me/talk/ces-ia-reinforcement-learning-class/</link>
       <pubDate>Sat, 04 Apr 2020 09:00:00 +0000</pubDate>
-      <guid>https://hill-a.me/talk/ces-ia/</guid>
+      <guid>https://hill-a.me/talk/ces-ia-reinforcement-learning-class/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICINCO presentation</title>
-      <link>https://hill-a.me/talk/icinco-2019/</link>
+      <link>https://hill-a.me/talk/icinco-presentation/</link>
       <pubDate>Mon, 29 Jul 2019 12:00:00 +0000</pubDate>
-      <guid>https://hill-a.me/talk/icinco-2019/</guid>
+      <guid>https://hill-a.me/talk/icinco-presentation/</guid>
       <description></description>
     </item>
     
@@ -58,6 +106,44 @@
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://hill-a.me/project/srl-toolbox/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>S.E.A.T.A </title>
+      <link>https://hill-a.me/project/seata/</link>
+      <pubDate>Sat, 02 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/project/seata/</guid>
+      <description>&lt;h1 id=&#34;seata&#34;&gt;S.E.A.T.A.&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;2012-05-10 22.53.40.jpg&#34;
+alt=&#34;The robot&#34; /&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;S.E.A.T.A. is a robotics project where I participated in high school. The goal of the project was to design a robot from the ground up, that could follow a black line, avoid obstacles, and send a ball into a goal. This robot was then used in a county robotics contest between high schools, where S.E.A.T.A. won first place in speed.&lt;/p&gt;
+&lt;p&gt;My participation in the project consisted of designing the control board based on a ATMega8535, a power board, and a motor control board.&lt;/p&gt;
+&lt;h2 id=&#34;the-control-board&#34;&gt;The control board&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;atmega.jpg&#34;
+alt=&#34;the control&#34; /&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;A modular style of &amp;ldquo;plugs&amp;rdquo; that both supplied low current power and gave 8 pins of a port for communicating with the MCU was devised.
+It allowed for quick prototyping and debugging, while keeping the footprint of the board relatively small.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;atmega_board.jpg&#34;
+alt=&#34;the control board&#34; /&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;As the ATMega8535 only used 15mA of current, this setup was deemed sufficient for the robot.&lt;/p&gt;
+&lt;h2 id=&#34;the-power--motor-control-board&#34;&gt;The power &amp;amp; motor control board&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;L293D.jpg&#34;
+alt=&#34;the power&#34;/&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The most power hungry devise of the robot, was the two lateral motors. As such, the power regulation and motor control board were unified to limit potential power issues.
+However, this also caused some issues that needed to be solved due to the motors and the MCU sharing the same power rail.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;L293D_board.jpg&#34;
+alt=&#34;the power board&#34;/&gt; &lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;under-the-hood&#34;&gt;Under the hood&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;2012-05-04 16.13.53.jpg&#34;
+alt=&#34;Under the hood&#34;/&gt; &lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+&lt;video controls width=&#34;250&#34;&gt;
+    &lt;source src=&#34;2012-05-11 10.38.06.m4v&#34; type=&#34;video/mp4&#34;&gt;
+&lt;pre&gt;&lt;code&gt;Download the
+&amp;lt;a href=&amp;quot;2012-05-11 10.38.06.m4v&amp;quot;&amp;gt;MP4&amp;lt;/a&amp;gt;
+video.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/video&gt;</description>
     </item>
     
   </channel>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows | Ashley Hill | hill-a</title>
+    <link>https://hill-a.me/tag/windows/</link>
+      <atom:link href="https://hill-a.me/tag/windows/index.xml" rel="self" type="application/rss+xml" />
+    <description>windows</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hill-a.me/media/icon_hubbd6e63d4ed975c3d1d61fd0a96e588a_325430_512x512_fill_lanczos_center_3.png</url>
+      <title>windows</title>
+      <link>https://hill-a.me/tag/windows/</link>
+    </image>
+    
+    <item>
+      <title>YACHT</title>
+      <link>https://hill-a.me/project/yacht/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/project/yacht/</guid>
+      <description>&lt;h1 id=&#34;yacht&#34;&gt;YACHT&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ShadowMitia/YACHT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YACHT&lt;/a&gt;(&lt;a href=&#34;https://github.com/ShadowMitia/YACHT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ShadowMitia/YACHT&lt;/a&gt;) is a C/C++ project template based on CMake designed by &lt;a href=&#34;https://shadowmitia.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ShadowMitia&lt;/a&gt; and I. Its goal is to avoid boilerplate CMake code, when trying to add extra features to your project. It uses a &amp;ldquo;pay for what you use&amp;rdquo; style of implementation, meaning it has a very small file size and does not generate file for features you didn&amp;rsquo;t ask for.&lt;/p&gt;
+&lt;p&gt;It has support for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy compiler flags &amp;amp; feature configuration&lt;/li&gt;
+&lt;li&gt;Linters and formatting tools: &lt;code&gt;clang-tidy&lt;/code&gt;, &lt;code&gt;cppcheck&lt;/code&gt;, &lt;code&gt;include-what-you-use&lt;/code&gt;, &amp;amp; &lt;code&gt;clang-format&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Integrated testing libraries: &lt;code&gt;GTest&lt;/code&gt; &amp;amp; &lt;code&gt;Catch2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Package managers: &lt;code&gt;conan&lt;/code&gt; &amp;amp; &lt;code&gt;vcpkg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Crossplatform support: Unix &lt;code&gt;Make&lt;/code&gt;, &lt;code&gt;Ninja&lt;/code&gt;, &amp;amp; Windows &lt;code&gt;Visual Studio&lt;/code&gt; 2015 and up&lt;/li&gt;
+&lt;li&gt;Dev perks: &lt;code&gt;Docker&lt;/code&gt;, a fully featured &lt;code&gt;./build.sh&lt;/code&gt; script, a predefined &lt;code&gt;.gitignore&lt;/code&gt;, &amp;amp; a pre setup folder structure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Being based on CMake, it also allows you to continue to use your custom &lt;code&gt;*.cmake&lt;/code&gt; scripts and to alter any parts of the &lt;code&gt;CMakeLists.txt&lt;/code&gt; with little  interference.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

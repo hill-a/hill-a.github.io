@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C-Cpp | Ashley Hill | hill-a</title>
+    <link>https://hill-a.me/tag/c-cpp/</link>
+      <atom:link href="https://hill-a.me/tag/c-cpp/index.xml" rel="self" type="application/rss+xml" />
+    <description>C-Cpp</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hill-a.me/media/icon_hubbd6e63d4ed975c3d1d61fd0a96e588a_325430_512x512_fill_lanczos_center_3.png</url>
+      <title>C-Cpp</title>
+      <link>https://hill-a.me/tag/c-cpp/</link>
+    </image>
+    
+    <item>
+      <title>YACHT</title>
+      <link>https://hill-a.me/project/yacht/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/project/yacht/</guid>
+      <description>&lt;h1 id=&#34;yacht&#34;&gt;YACHT&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ShadowMitia/YACHT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YACHT&lt;/a&gt;(&lt;a href=&#34;https://github.com/ShadowMitia/YACHT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ShadowMitia/YACHT&lt;/a&gt;) is a C/C++ project template based on CMake designed by &lt;a href=&#34;https://shadowmitia.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ShadowMitia&lt;/a&gt; and I. Its goal is to avoid boilerplate CMake code, when trying to add extra features to your project. It uses a &amp;ldquo;pay for what you use&amp;rdquo; style of implementation, meaning it has a very small file size and does not generate file for features you didn&amp;rsquo;t ask for.&lt;/p&gt;
+&lt;p&gt;It has support for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy compiler flags &amp;amp; feature configuration&lt;/li&gt;
+&lt;li&gt;Linters and formatting tools: &lt;code&gt;clang-tidy&lt;/code&gt;, &lt;code&gt;cppcheck&lt;/code&gt;, &lt;code&gt;include-what-you-use&lt;/code&gt;, &amp;amp; &lt;code&gt;clang-format&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Integrated testing libraries: &lt;code&gt;GTest&lt;/code&gt; &amp;amp; &lt;code&gt;Catch2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Package managers: &lt;code&gt;conan&lt;/code&gt; &amp;amp; &lt;code&gt;vcpkg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Crossplatform support: Unix &lt;code&gt;Make&lt;/code&gt;, &lt;code&gt;Ninja&lt;/code&gt;, &amp;amp; Windows &lt;code&gt;Visual Studio&lt;/code&gt; 2015 and up&lt;/li&gt;
+&lt;li&gt;Dev perks: &lt;code&gt;Docker&lt;/code&gt;, a fully featured &lt;code&gt;./build.sh&lt;/code&gt; script, a predefined &lt;code&gt;.gitignore&lt;/code&gt;, &amp;amp; a pre setup folder structure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Being based on CMake, it also allows you to continue to use your custom &lt;code&gt;*.cmake&lt;/code&gt; scripts and to alter any parts of the &lt;code&gt;CMakeLists.txt&lt;/code&gt; with little  interference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>S.E.A.T.A </title>
+      <link>https://hill-a.me/project/seata/</link>
+      <pubDate>Sat, 02 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/project/seata/</guid>
+      <description>&lt;h1 id=&#34;seata&#34;&gt;S.E.A.T.A.&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;2012-05-10 22.53.40.jpg&#34;
+alt=&#34;The robot&#34; /&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;S.E.A.T.A. is a robotics project where I participated in high school. The goal of the project was to design a robot from the ground up, that could follow a black line, avoid obstacles, and send a ball into a goal. This robot was then used in a county robotics contest between high schools, where S.E.A.T.A. won first place in speed.&lt;/p&gt;
+&lt;p&gt;My participation in the project consisted of designing the control board based on a ATMega8535, a power board, and a motor control board.&lt;/p&gt;
+&lt;h2 id=&#34;the-control-board&#34;&gt;The control board&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;atmega.jpg&#34;
+alt=&#34;the control&#34; /&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;A modular style of &amp;ldquo;plugs&amp;rdquo; that both supplied low current power and gave 8 pins of a port for communicating with the MCU was devised.
+It allowed for quick prototyping and debugging, while keeping the footprint of the board relatively small.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;atmega_board.jpg&#34;
+alt=&#34;the control board&#34; /&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;As the ATMega8535 only used 15mA of current, this setup was deemed sufficient for the robot.&lt;/p&gt;
+&lt;h2 id=&#34;the-power--motor-control-board&#34;&gt;The power &amp;amp; motor control board&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;L293D.jpg&#34;
+alt=&#34;the power&#34;/&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The most power hungry devise of the robot, was the two lateral motors. As such, the power regulation and motor control board were unified to limit potential power issues.
+However, this also caused some issues that needed to be solved due to the motors and the MCU sharing the same power rail.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;L293D_board.jpg&#34;
+alt=&#34;the power board&#34;/&gt; &lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;under-the-hood&#34;&gt;Under the hood&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;2012-05-04 16.13.53.jpg&#34;
+alt=&#34;Under the hood&#34;/&gt; &lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+&lt;video controls width=&#34;250&#34;&gt;
+    &lt;source src=&#34;2012-05-11 10.38.06.m4v&#34; type=&#34;video/mp4&#34;&gt;
+&lt;pre&gt;&lt;code&gt;Download the
+&amp;lt;a href=&amp;quot;2012-05-11 10.38.06.m4v&amp;quot;&amp;gt;MP4&amp;lt;/a&amp;gt;
+video.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/video&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Ashley Hill | hill-a</title>
+    <title>1 | Ashley Hill | hill-a</title>
     <link>https://hill-a.me/publication-type/1/</link>
       <atom:link href="https://hill-a.me/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2019 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 May 2021 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hill-a.me/img/logo.jpeg</url>
+      <url>https://hill-a.me/media/icon_hubbd6e63d4ed975c3d1d61fd0a96e588a_325430_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://hill-a.me/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Online velocity fluctuation of off-road wheeled mobile robots: A reinforcement learning approach</title>
+      <link>https://hill-a.me/publication/icra2021/</link>
+      <pubDate>Sun, 30 May 2021 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/icra2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online gain setting method for path tracking using CMA-ES: Application to off-road mobile robot control</title>
+      <link>https://hill-a.me/publication/iros2020/</link>
+      <pubDate>Sat, 24 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/iros2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new neural network feature importance method: Application to mobile robots controllers gain tuning</title>
+      <link>https://hill-a.me/publication/icinco-2020/</link>
+      <pubDate>Tue, 07 Jul 2020 12:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/publication/icinco-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neuroevolution with CMA-ES for real-time gain tuning of a car-like robot controller</title>

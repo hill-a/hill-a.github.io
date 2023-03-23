@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microcontroller | Ashley Hill | hill-a</title>
+    <link>https://hill-a.me/tag/microcontroller/</link>
+      <atom:link href="https://hill-a.me/tag/microcontroller/index.xml" rel="self" type="application/rss+xml" />
+    <description>microcontroller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hill-a.me/media/icon_hubbd6e63d4ed975c3d1d61fd0a96e588a_325430_512x512_fill_lanczos_center_3.png</url>
+      <title>microcontroller</title>
+      <link>https://hill-a.me/tag/microcontroller/</link>
+    </image>
+    
+    <item>
+      <title>S.E.A.T.A </title>
+      <link>https://hill-a.me/project/seata/</link>
+      <pubDate>Sat, 02 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://hill-a.me/project/seata/</guid>
+      <description>&lt;h1 id=&#34;seata&#34;&gt;S.E.A.T.A.&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;2012-05-10 22.53.40.jpg&#34;
+alt=&#34;The robot&#34; /&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;S.E.A.T.A. is a robotics project where I participated in high school. The goal of the project was to design a robot from the ground up, that could follow a black line, avoid obstacles, and send a ball into a goal. This robot was then used in a county robotics contest between high schools, where S.E.A.T.A. won first place in speed.&lt;/p&gt;
+&lt;p&gt;My participation in the project consisted of designing the control board based on a ATMega8535, a power board, and a motor control board.&lt;/p&gt;
+&lt;h2 id=&#34;the-control-board&#34;&gt;The control board&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;atmega.jpg&#34;
+alt=&#34;the control&#34; /&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;A modular style of &amp;ldquo;plugs&amp;rdquo; that both supplied low current power and gave 8 pins of a port for communicating with the MCU was devised.
+It allowed for quick prototyping and debugging, while keeping the footprint of the board relatively small.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;atmega_board.jpg&#34;
+alt=&#34;the control board&#34; /&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;As the ATMega8535 only used 15mA of current, this setup was deemed sufficient for the robot.&lt;/p&gt;
+&lt;h2 id=&#34;the-power--motor-control-board&#34;&gt;The power &amp;amp; motor control board&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;L293D.jpg&#34;
+alt=&#34;the power&#34;/&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The most power hungry devise of the robot, was the two lateral motors. As such, the power regulation and motor control board were unified to limit potential power issues.
+However, this also caused some issues that needed to be solved due to the motors and the MCU sharing the same power rail.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;L293D_board.jpg&#34;
+alt=&#34;the power board&#34;/&gt; &lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;under-the-hood&#34;&gt;Under the hood&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;2012-05-04 16.13.53.jpg&#34;
+alt=&#34;Under the hood&#34;/&gt; &lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+&lt;video controls width=&#34;250&#34;&gt;
+    &lt;source src=&#34;2012-05-11 10.38.06.m4v&#34; type=&#34;video/mp4&#34;&gt;
+&lt;pre&gt;&lt;code&gt;Download the
+&amp;lt;a href=&amp;quot;2012-05-11 10.38.06.m4v&amp;quot;&amp;gt;MP4&amp;lt;/a&amp;gt;
+video.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/video&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
